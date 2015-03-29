@@ -85,13 +85,13 @@
 		5B568A3A1AA5EE9A007C3BBE /* BullsEye */ = {
 			isa = PBXGroup;
 			children = (
-				5B7AC4EF1AAF240D00C874FA /* BullsEye.html */,
-				5B568A3D1AA5EE9A007C3BBE /* AppDelegate.swift */,
-				5B568A3F1AA5EE9A007C3BBE /* ViewController.swift */,
-				5B568A411AA5EE9A007C3BBE /* Main.storyboard */,
 				5B5FE7831AA9EAE600D0E295 /* AboutViewController.swift */,
+				5B568A3D1AA5EE9A007C3BBE /* AppDelegate.swift */,
+				5B7AC4EF1AAF240D00C874FA /* BullsEye.html */,
 				5B568A441AA5EE9A007C3BBE /* Images.xcassets */,
+				5B568A411AA5EE9A007C3BBE /* Main.storyboard */,
 				5B568A3B1AA5EE9A007C3BBE /* Supporting Files */,
+				5B568A3F1AA5EE9A007C3BBE /* ViewController.swift */,
 			);
 			path = BullsEye;
 			sourceTree = "<group>";
